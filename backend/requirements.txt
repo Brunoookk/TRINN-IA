@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+groq
+PyPDF2
+python-dotenv
+sqlalchemy
+psycopg2-binary
